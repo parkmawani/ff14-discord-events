@@ -26,32 +26,6 @@
     DISCORD_BOT_TOKEN=your_discord_bot_token
     ```
 
-4. `bot_functions.py` 파일을 생성하고 아래와 같이 설정합니다:
-    ```python
-    import discord
-    from discord.ext import commands
-
-    def set_bot(bot):
-        # Bot 설정 함수
-        pass
-
-    async def create_event(interaction: discord.Interaction):
-        # 이벤트 생성 함수
-        pass
-
-    async def cancel_events(interaction: discord.Interaction):
-        # 이벤트 취소 함수
-        pass
-
-    async def select_events(interaction: discord.Interaction):
-        # 이벤트 선택 함수
-        pass
-
-    async def on_select_interaction(interaction: discord.Interaction):
-        # 이벤트 상호작용 처리 함수
-        pass
-    ```
-
 ## 사용 방법
 
 1. 봇을 실행합니다:
