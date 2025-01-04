@@ -38,17 +38,9 @@
     - `/이벤트종료`: 서버에 등록된 모든 이벤트를 종료합니다.
     - `/이벤트선택`: Select Menus를 사용하여 이벤트를 선택하고 생성합니다.
 
-## 기여
-
-기여를 원하신다면, [기여 가이드라인](CONTRIBUTING.md)을 읽어주세요.
-
 ## 라이선스
 
 이 프로젝트는 [MIT 라이선스](LICENSE)에 따라 라이선스가 부여됩니다.
-
-## 문의
-
-궁금한 사항이 있으면 [이슈](https://github.com/yourusername/discord-event-manager-bot/issues)를 통해 문의해 주세요.
 
 ## 봇으로 생성된 이벤트
 ![image](https://github.com/user-attachments/assets/911fd5c6-bf94-4229-b780-4f41ec8a2003)
