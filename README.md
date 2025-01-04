@@ -22,16 +22,16 @@
     pip install -r requirements.txt
     ```
 
-3. `.env` 파일을 생성하고 디스코드 봇 토큰을 설정합니다:
+3. `main.py` 파일 7번째 줄에서 디스코드 봇 토큰을 설정합니다:
     ```plaintext
-    DISCORD_BOT_TOKEN=your_discord_bot_token
+    TOKEN = 'your_discord_bot_token'
     ```
 
 ## 사용 방법
 
 1. 봇을 실행합니다:
     ```sh
-    python bot.py
+    python main.py
     ```
 
 2. 디스코드 서버에서 봇을 사용해 이벤트를 관리합니다:
