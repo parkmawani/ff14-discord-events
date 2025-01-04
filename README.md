@@ -12,8 +12,8 @@
 
 1. 저장소를 클론합니다:
     ```sh
-    git clone https://github.com/yourusername/discord-event-manager-bot.git
-    cd discord-event-manager-bot
+    git clone https://github.com/parkmawani/ff14-discord-events.git
+    cd ff14-discord-events
     ```
 
 2. 필요한 패키지를 설치합니다:
