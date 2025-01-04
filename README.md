@@ -48,3 +48,7 @@
 
 ![image](https://github.com/user-attachments/assets/8e3a5f46-0aff-4569-ac71-f457a6c046d7)
 
+## 이벤트 선택
+![image](https://github.com/user-attachments/assets/c4aa1417-86fc-4685-b3af-7578c0aa4876)
+
+
