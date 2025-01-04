@@ -49,3 +49,9 @@
 ## 문의
 
 궁금한 사항이 있으면 [이슈](https://github.com/yourusername/discord-event-manager-bot/issues)를 통해 문의해 주세요.
+
+## 봇으로 생성된 이벤트
+![image](https://github.com/user-attachments/assets/911fd5c6-bf94-4229-b780-4f41ec8a2003)
+
+![image](https://github.com/user-attachments/assets/8e3a5f46-0aff-4569-ac71-f457a6c046d7)
+
